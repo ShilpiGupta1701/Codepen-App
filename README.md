@@ -1,6 +1,6 @@
 # CodePen React Website
 
-This is a simple website built using React and hosted on CodePen.
+This is a simple website built using React ,Codepen.
 
 ## Overview
 
